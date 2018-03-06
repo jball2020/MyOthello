@@ -1,2 +1,1 @@
-# MyOthello
-CS2401 Project at Ohio University written by a colleague. The purpose of this repo is for use with an assignment for CS3560 at Ohio University
+Here is the original othello game which uses an AI to play an othello game against a human competitor good luck :)
